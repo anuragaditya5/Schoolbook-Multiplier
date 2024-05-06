@@ -1,4 +1,4 @@
-# Schoolbook-Multiplier
+# Schoolbook-Polynomial-Multiplier
 Verilog Code for Schoolbook multiplier 
 
 
