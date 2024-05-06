@@ -1,5 +1,5 @@
 # Schoolbook-Polynomial-Multiplier
-Verilog Code for Schoolbook multiplier 
+Verilog Code for Schoolbook polynomial multiplier 
 
 
 Variant 0
